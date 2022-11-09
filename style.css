@@ -1,0 +1,534 @@
+.ota{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 600px;
+    flex-wrap: wrap;
+    border: 3px solid #000;
+}
+.katta_ona{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 457px;
+    flex-wrap: wrap;
+    border: 3px solid blue;
+}
+.ona{
+    display: flex;
+    width: 3300px;
+    height: 200px;
+    justify-content: space-between;
+    /* align-items: center; */
+    /* border: 3px solid #000; */
+}
+.ona2{
+    display: flex;
+    width: 3300px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    /* border: 3px solid #000; */
+}
+.ona3{
+    display: flex;
+    width: 3300px;
+    height: 200px;
+    justify-content: space-between;
+    /* align-items: center; */
+    /* border: 3px solid #000; */
+}
+.bola1{
+    width: 100px;
+    height: 50px;
+    border: 3px solid #000;
+    border-radius: 14px;
+}
+.bola2{
+    width: 100px;
+    border: 3px solid #000;
+    height: 50px;
+    border-radius: 14px;
+}
+.bola3{
+    width: 100px;
+    height: 50px;
+    border: 3px solid #000;
+    border-radius: 14px;
+}
+.bola4{
+    width: 100px;
+    height: 50px;
+    border: 3px solid #000;
+    border-radius: 14px;
+}
+.bola5{
+    width: 100px;
+    border: 3px solid #000;
+    height: 50px;
+    border-radius: 14px;
+}
+.granisa{
+    display: flex;
+    border: 3px solid blue;
+    width: 100%;
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.katta_oyna{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    height: 650px;
+    flex-wrap: wrap;
+    border: 3px solid black;
+    background-color: white;
+}
+.kichikroq_oyna1{
+    display: flex;
+    justify-content: start;
+    /* align-items: center; */
+    width: 48%;
+    height: 600px;
+    flex-wrap: wrap;
+    border: 3px solid black;
+    background-color: gray;
+}
+.kichik1{
+    width: 100px;
+    height: 50px;
+    border: 3px solid #000;
+    /* border-radius: 14px; */
+    background-color: white;
+}
+.kichikroq_oyna2{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    width: 48%;
+    height: 600px;
+    flex-wrap: wrap;
+    border: 3px solid black;
+    background-color: gray;
+}
+.kichik2{
+    width: 100px;
+    height: 50px;
+    border: 3px solid #000;
+    /* border-radius: 14px; */
+    background-color: white;
+}
+.eng_kattasi{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid red;
+    width: 100%;
+    height: 730px;
+    flex-wrap: nowrap;
+}
+.cha1{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+.cha2{
+    border: 3px solid red;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.cha3{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+.cha4{
+    border: 3px solid red;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.cha5{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
+.big{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid red;
+    width: 100%;
+    height: 730px;
+    flex-wrap: wrap;
+}
+.small1{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.small2{
+    border: 3px solid red;
+    background-color: red;
+    width: 400px;
+    height: 100px;
+}
+.small3{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.small4{
+    border: 3px solid red;
+    background-color: red;
+    width: 400px;
+    height: 100px;
+}
+.small5{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.small6{
+    border: 3px solid red;
+    background-color: red;
+    width: 400px;
+    height: 100px;
+}
+.small7{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.small8{
+    border: 3px solid red;
+    background-color: red;
+    width: 400px;
+    height: 100px;
+}
+.small9{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.big_box{
+    display: flex;
+    justify-content: center;
+    border: 3px solid red;
+    width: 100%;
+    height: 730px;
+    flex-wrap: wrap;
+}
+.small_box1{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+}
+.small_box2{
+    border: 3px solid red;
+    background-color: red;
+    width: 200px;
+    height: 100px;
+}
+.small_box3{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
+}
+.small_box4{
+    border: 3px solid red;
+    background-color: red;
+    width: 200px;
+    height: 100px;
+}
+.eng_big{
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid red;
+    width: 100%;
+    height: 800px;
+    flex-wrap: wrap;
+}
+.kichs1{
+    /* border: 3px solid yellow;
+    background-color: yellow; */
+    width: 250px;
+    height: 250px;
+}
+.kichs2{
+    /* border: 3px solid yellow;
+    background-color: yellow; */
+    width: 250px;
+    height: 250px;
+}
+.kichs3{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+}
+.kichs4{
+    /* border: 3px solid yellow;
+    background-color: yellow; */
+    width: 250px;
+    height: 250px;
+}
+.kichs5{
+    /* border: 3px solid yellow;
+    background-color: yellow; */
+    width: 250px;
+    height: 250px;
+}
+.kichs6{
+    /* border: 3px solid yellow;
+    background-color: yellow; */
+    width: 250px;
+    height: 250px;
+}
+.kichs7{
+    /* border: 3px solid yellow;
+    background-color: yellow; */
+    width: 250px;
+    height: 250px;
+}
+.kichs8{
+    /* border: 3px solid yellow;
+    background-color: yellow; */
+    width: 250px;
+    height: 250px;
+}
+.kichs9{
+    border: 3px solid red;
+    background-color: red;
+    width: 250px;
+    height: 250px;
+}
+.kichs10{
+    /* border: 3px solid yellow;
+    background-color: yellow; */
+    width: 250px;
+    height: 250px;
+}
+.kichs11{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+}
+.kichs12{
+    border: 3px solid red;
+    background-color: red;
+    width: 250px;
+    height: 250px;
+}
+.kichs13{
+    /* border: 3px solid yellow;
+    background-color: yellow; */
+    width: 250px;
+    height: 250px;
+}
+.kichs14{
+    /* border: 3px solid red;
+    background-color: red; */
+    width: 250px;
+    height: 250px;
+}
+.kichs15{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 250px;
+    height: 250px;
+}
+.big_eng{
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid red;
+    width: 100%;
+    height: 730px;
+    flex-wrap: wrap;
+}
+.skich1{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.skich2{
+    border: 3px solid red;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.skich3{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.skich4{
+    border: 3px solid red;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.skich5{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.skich6{
+    border: 3px solid red;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.skich7{
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 400px;
+    height: 100px;
+}
+.skich8{
+    border: 3px solid red;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.eng_katta_box{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid red;
+    width: 100%;
+    height: 730px;
+    flex-wrap: wrap;
+}
+.kattaroq_box1{
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 350px;
+    height: 400px;
+    flex-wrap: wrap;
+}
+.kichik_box1{
+    /* text-align: center; */
+    border: 3px solid gray;
+    background-color: gray;
+    width: 160px;
+    height: 180px;
+}
+.kichik_box2{
+    /* text-align: center; */
+    border: 3px solid black;
+    background-color: black;
+    width: 160px;
+    height: 180px;
+}
+.kichik_box3{
+    /* text-align: center; */
+    border: 3px solid gray;
+    background-color: gray;
+    width: 160px;
+    height: 180px;
+}
+.kichik_box4{
+    /* text-align: center; */
+    border: 3px solid black;
+    background-color: black;
+    width: 160px;
+    height: 180px;
+}
+.kattaroq_box2{
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid red;
+    background-color: red;
+    width: 350px;
+    height: 400px;
+    flex-wrap: wrap;
+}
+.kichik_box5{
+    /* text-align: center; */
+    border: 3px solid gray;
+    background-color: gray;
+    width: 160px;
+    height: 180px;
+}
+.kichik_box6{
+    /* text-align: center; */
+    border: 3px solid black;
+    background-color: black;
+    width: 160px;
+    height: 180px;
+}
+.kichik_box7{
+    /* text-align: center; */
+    border: 3px solid gray;
+    background-color: gray;
+    width: 160px;
+    height: 180px;
+}
+.kichik_box8{
+    /* text-align: center; */
+    border: 3px solid black;
+    background-color: black;
+    width: 160px;
+    height: 180px;
+}
+.kattaroq_box3{
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid yellow;
+    background-color: yellow;
+    width: 350px;
+    height: 400px;
+    flex-wrap: wrap;
+}
+.kichik_box9{
+    /* text-align: center; */
+    border: 3px solid gray;
+    background-color: gray;
+    width: 160px;
+    height: 180px;
+}
+.kichik_box10{
+    /* text-align: center; */
+    border: 3px solid black;
+    background-color: black;
+    width: 160px;
+    height: 180px;
+}
+.kichik_box11{
+    /* text-align: center; */
+    border: 3px solid gray;
+    background-color: gray;
+    width: 160px;
+    height: 180px;
+}
+.kichik_box12{
+    /* text-align: center; */
+    border: 3px solid black;
+    background-color: black;
+    width: 160px;
+    height: 180px;
+}
+::selection{
+    color: yellow;
+    background-color: #000;
+}
